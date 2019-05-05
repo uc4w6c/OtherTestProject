@@ -43,6 +43,7 @@ public class Balance {
 		StringBuilder sb = new StringBuilder();
 		sb.append("id:").append(id);
 		sb.append("name:").append(name);
+		sb.append("amount:").append(amount);
 		sb.append("created_ad:").append(createdAt);
 		sb.append("updated_ad:").append(updatedAt);
 		return sb.toString();

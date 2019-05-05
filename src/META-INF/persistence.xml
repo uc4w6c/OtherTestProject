@@ -10,9 +10,9 @@
     <properties>
       <property name="hibernate.dialect" value="org.hibernate.dialect.MySQLDialect" />
       <property name="hibernate.connection.driver_class" value="com.mysql.cj.jdbc.Driver" />
-      <property name="hibernate.connection.url" value="jdbc:mysql://localhost:3306/sastrutsdb" />
-      <property name="hibernate.connection.username" value="sastrutsuser" />
-      <property name="hibernate.connection.password" value="sastrutsuser1%A" />
+      <property name="hibernate.connection.url" value="jdbc:mysql://localhost:3306/othertestdb" />
+      <property name="hibernate.connection.username" value="otheruser" />
+      <property name="hibernate.connection.password" value="otheruser1%A" />
       <property name="hibernate.show_sql" value="true" />
     </properties>
   </persistence-unit>
