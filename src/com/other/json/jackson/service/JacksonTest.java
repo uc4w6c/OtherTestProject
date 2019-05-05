@@ -1,9 +1,9 @@
-package com.json.jackson.service;
+package com.other.json.jackson.service;
 
 import java.io.IOException;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.json.jackson.bean.Person;
+import com.other.json.jackson.bean.Person;
 
 public class JacksonTest {
 

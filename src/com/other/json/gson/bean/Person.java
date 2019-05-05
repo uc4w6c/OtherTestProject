@@ -1,4 +1,4 @@
-package com.json.gson.bean;
+package com.other.json.gson.bean;
 
 public class Person {
 

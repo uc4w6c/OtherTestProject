@@ -1,4 +1,4 @@
-package com.json.jackson.bean;
+package com.other.json.jackson.bean;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 

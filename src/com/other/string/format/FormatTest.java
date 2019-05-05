@@ -1,4 +1,4 @@
-package com.string.format;
+package com.other.string.format;
 
 public class FormatTest {
 	public static void main(String[] args) {

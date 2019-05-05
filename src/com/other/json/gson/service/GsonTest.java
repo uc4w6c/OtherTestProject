@@ -1,7 +1,7 @@
-package com.json.gson.service;
+package com.other.json.gson.service;
 
 import com.google.gson.Gson;
-import com.json.gson.bean.Person;
+import com.other.json.gson.bean.Person;
 
 public class GsonTest {
 
