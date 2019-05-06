@@ -28,5 +28,6 @@ public class LocalDateTimeTest {
 		System.out.println(instantDt);
 		System.out.println(instantDt.getNano());
 		System.out.println(ChronoUnit.MILLIS.between(localDateTime, nowLocalDt));
+		System.out.println(ChronoUnit.MICROS.between(localDateTime, nowLocalDt));
 	}
 }
